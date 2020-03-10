@@ -54,7 +54,6 @@ section.hero img {
 
 section {
   background-color: #87ceeb99;
-  padding-bottom: 3rem;
 }
 
 section ul {
@@ -94,4 +93,8 @@ footer {
   display: flex;
   justify-content: center;
   padding: 1rem;
+}
+
+p {
+  padding: 2rem;
 }
